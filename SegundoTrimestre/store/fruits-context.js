@@ -37,6 +37,7 @@ export function FruitsContextProvider({ children }) {
 
           prevState.push(newFruit)
           return prevState;
+          return newFruitsList;
         });
     }
 
