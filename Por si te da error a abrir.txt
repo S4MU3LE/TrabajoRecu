@@ -1,0 +1,7 @@
+PARA ABRIR LA APP SI HAY ERROR:
+
+1) Cree una app react con react-native init
+
+2) Copie y pegue los archivos de la carpeta "Segundo Trimestre" en la carpeta del proyecto react creado en el punto 1)
+
+3) Abra CMD en la carpeta de react del punto 1) y escriba en la linea de commando "npx react-native run-android"
